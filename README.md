@@ -20,6 +20,6 @@ Review_Text: comments made by visitor
 
 Disneyland_Branch: location of Disneyland Park
 
-The aim is to gain insights into the overall sentiment expressed by visitors in their reviews, helping us understand the public perception and satisfaction levels across these Disneyland parks.
+The aim is to gain insights into the overall sentiment expressed by visitors in their reviews, helping us understand the public perception and satisfaction levels across these Disneyland parks. In the Jupyter Notebook, we will explore three questions, firstly, the distribution of ratings and the average review length for each rating category. Secondly, the distribution of review sentiments. Lastly, the most common words in reviews using word clouds.
   
 Thank you for joining the Disneyland project! May your coding journey be as magical as a day at the happiest place on earth✨🏰
