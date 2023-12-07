@@ -21,14 +21,5 @@ Review_Text: comments made by visitor
 Disneyland_Branch: location of Disneyland Park
 
 The aim is to gain insights into the overall sentiment expressed by visitors in their reviews, helping us understand the public perception and satisfaction levels across these Disneyland parks.
-
-Getting Started
-To get started with the development of this project, follow these steps:
-* 		Clone the repository: git clone https://github.com/your-username/disneyland-project.git
-* 		Install dependencies: npm install
-* 		Run the application: npm start
-
-Contributor
-* Yingyue Jiang
   
 Thank you for joining the Disneyland project! May your coding journey be as magical as a day at the happiest place on earth✨🏰
